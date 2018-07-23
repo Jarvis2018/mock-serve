@@ -18,6 +18,18 @@
 
 ├── src
     ├── data  模拟数据目录
-    ├── main.js  入口文件
+    ├── route  路由
+    ├── index.js  入口文件
+
+```
+
+## 用法
+
+``` bash
+# 安装依赖
+npm install
+
+# 启动服务
+npm run mock
 
 ```

@@ -1,0 +1,26 @@
+{
+  "name": "mock-serve",
+  "version": "1.0.0",
+  "description": "前端模拟数据服务",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mock": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarvis2018/mock-serve.git"
+  },
+  "author": "Jarvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jarvis2018/mock-serve/issues"
+  },
+  "homepage": "https://github.com/Jarvis2018/mock-serve#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
