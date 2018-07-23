@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Jarvis2018/mock-serve#readme",
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
