@@ -10,5 +10,5 @@ app.use(router.routes())
 // 默认监听3000 端口
 // 如果占用以有端口请修改
 app.listen(3000, () => {
-    console.log('mock serve is running...')
+    console.log('mock serve is running... on http://localhost:' + 3000)
 });
