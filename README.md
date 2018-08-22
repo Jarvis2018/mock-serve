@@ -29,7 +29,7 @@
 # 安装依赖
 npm install
 
-# 启动服务 默认地址 http://127.0.0.0:3000
+# 启动服务 默认地址 http://localhost:3000
 npm run mock
 
 # 配置模拟数据
