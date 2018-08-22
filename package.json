@@ -19,7 +19,9 @@
   "homepage": "https://github.com/Jarvis2018/mock-serve#readme",
   "dependencies": {
     "koa": "^2.5.2",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "mockjs": "^1.0.1-beta3"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"

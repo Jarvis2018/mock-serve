@@ -19,6 +19,7 @@ mock-serve 是一个本地的前端模拟数据服务
 ├── src
     ├── data  模拟数据目录
     ├── router  路由
+    ├── utils  工具函数
     ├── index.js  入口文件
 
 ```
@@ -33,7 +34,7 @@ npm install
 npm run mock
 
 # 配置模拟数据
-- 在data目录下新建你自己的模拟数据文件
+- 在data目录创建符合你的数据结构（支持MockJs）
 - 在路由文件中配置你要拦截的api地址
 - 等待服务热重启
 ```
